@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When we think of our most basic human needs, we often think of food, water, and shelter. But when architecture graduate students Anna Stork and Andrea Sreshta were asked to design a product to assist post-earthquake relief efforts in Haiti, they considered the dangerous conditions at night in the tent cities and turned their attention to another critical need: Light.'
-datePublished: '2016-04-05T15:32:17.026Z'
-dateModified: '2016-04-05T15:31:05.940Z'
+datePublished: '2016-04-05T15:35:45.206Z'
+dateModified: '2016-04-05T15:35:40.134Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-when-we-think-of-our-most-basic-human-needs-we-often-think.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-when-we-think-of-our-most-basic-human-needs-we-often-think.md
-published: true
 url: when-we-think-of-our-most-basic-human-needs-we-often-think/index.html
 _type: Article
 
