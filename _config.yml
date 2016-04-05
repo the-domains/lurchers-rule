@@ -1,6 +1,6 @@
 name: Lurchers Rule
 favicon: null
-layout_spectrum: 0.5873467377386987
+layout_spectrum: 0.18582
 typography_spectrum: 0.8643078203313053
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5552855469286442
+  brandStrength: 0.125
   lightness: 0.9829328125342727
-  saturation: 0.29800054081715643
-  rhythmicContrast: 0.010147056309506297
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
