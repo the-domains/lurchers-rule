@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://luminaid.com/pages/about'
 title: 'Our Story | LuminAID Solar Lights'
-datePublished: '2016-04-05T16:04:03.021Z'
-dateModified: '2016-04-05T16:01:29.885Z'
+datePublished: '2016-04-05T16:35:03.074Z'
+dateModified: '2016-04-05T16:08:29.646Z'
 sourcePath: _posts/2016-04-05-our-story-or-luminaid-solar-lights.md
 published: true
 inFeed: true
