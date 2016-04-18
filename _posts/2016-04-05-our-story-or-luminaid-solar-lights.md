@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://luminaid.com'
-  name: LuminAID
-  favicon: 'http://cdn.shopify.com/s/files/1/0774/6811/t/3/assets/favicon.png?13500104144776692121'
-  domain: luminaid.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://luminaid.com/pages/about'
+inLanguage: en
+starred: false
 keywords:
   - luminaid
   - light
@@ -18,17 +17,20 @@ keywords:
   - architecture
   - kauffman
 description: 'When we think of our most basic human needs, we often think of food, water, and shelter. But when architecture graduate students Anna Stork and Andrea Sreshta were asked to design a product to assist post-earthquake relief efforts in Haiti, they considered the dangerous conditions at night in the tent cities and turned their attention to another critical need: Light.'
-inLanguage: en
+datePublished: '2016-04-18T05:55:03.828Z'
+dateModified: '2016-04-18T05:54:31.722Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://luminaid.com/pages/about'
 title: 'Our Story | LuminAID Solar Lights'
-datePublished: '2016-04-05T16:35:03.074Z'
-dateModified: '2016-04-05T16:08:29.646Z'
 sourcePath: _posts/2016-04-05-our-story-or-luminaid-solar-lights.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: LuminAID
+  domain: luminaid.com
+  url: 'http://luminaid.com'
+  favicon: 'http://cdn.shopify.com/s/files/1/0774/6811/t/3/assets/favicon.png?13500104144776692121'
 _context: 'http://schema.org'
 _type: MediaObject
 
